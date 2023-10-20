@@ -1,1 +1,2 @@
 # MicrosoftExcel_Sales_Project
+The "Sales Performance Analysis & Storytelling Dashboard" project is a comprehensive effort aimed at unraveling the intricacies of sales data and sharing meaningful insights with stakeholders through an interactive Excel dashboard. This project combines data analysis, visualization, and storytelling to provide a cohesive narrative that informs decision-making and drives sales strategies.
